@@ -1,1 +1,1 @@
-# Exam 2.solution
+it was demo for final and practical exam that take data from user like header and body of exam and total mark for each question and time of exam and number of question after that ask to start exam and when your answer is wrong or right it will tell you your answer and what is wrong and what is right
